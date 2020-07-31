@@ -1,1 +1,1 @@
-# ISL-Recognition
+Indian sign language recognition
